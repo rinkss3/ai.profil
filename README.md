@@ -293,7 +293,7 @@
 
   <img src="https://i.postimg.cc/VLryqmpy/ic-licensed.gif" class="icon" alt="Icon Image"> 
 
-  <div class="neon-text">YOU HAVE BEEN HACKED BY @rinkq2</div>
+  <div class="neon-text">JAHID HASSAN RINKQ..@rinkq2</div>
 
   <div class="button-container"> 
     <a href="https://www.facebook.com/rinkq2"> 
